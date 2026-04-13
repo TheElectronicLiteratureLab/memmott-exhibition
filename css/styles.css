@@ -429,6 +429,7 @@ header {
   justify-content: center;
   transition: background 0.15s, color 0.15s;
   padding: 0;
+  z-index: 3;
 }
 
 #lb-prev {
@@ -445,10 +446,9 @@ header {
   color: var(--green);
 }
 
-#lb-prev:disabled,
-#lb-next:disabled {
+#lb-prev[aria-disabled="true"],
+#lb-next[aria-disabled="true"] {
   cursor: default;
-  pointer-events: none;
 }
 
 #lightbox-info {
@@ -463,6 +463,7 @@ header {
   backdrop-filter: blur(6px);
   -webkit-backdrop-filter: blur(6px);
   pointer-events: auto;
+  z-index: 3;
 }
 
 @media (max-width: 819px) {
@@ -513,19 +514,33 @@ header {
   position: absolute;
   top: 1rem;
   right: 1.25rem;
-  background: none;
-  border: none;
+  background: rgba(8, 8, 8, 0.82);
+  border: 1px solid rgba(255, 255, 255, 0.25);
   color: rgba(255, 255, 255, 0.85);
-  font-size: 3rem;
+  font-size: 1rem;
+  font-family: var(--font);
   line-height: 1;
   cursor: pointer;
-  padding: 0.25rem 0.5rem;
+  padding: 0.35rem 0.75rem;
   opacity: 0;
-  transition: color 0.15s;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+  z-index: 3;
+}
+
+.lb-close-icon {
+  font-size: 1.4rem;
+  line-height: 0.7;
 }
 
 #lightbox-close:hover {
-  color: var(--green);
+  background: rgba(8, 8, 8, 0.9);
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.5);
 }
 
 #lightbox-close:focus {
@@ -879,9 +894,8 @@ header {
 
 #lb-strip {
   position: absolute;
-  top: 1rem;
-  left: 50%;
-  transform: translateX(-50%);
+  bottom: 2rem;
+  right: 2rem;
   display: flex;
   gap: 0.5rem;
   align-items: center;
@@ -962,8 +976,6 @@ header {
 
 #lb-iframe {
   display: none;
-  width: 100%;
-  height: 100%;
   border: 0;
   background: #000;
 }
@@ -994,8 +1006,8 @@ header {
   #lb-strip {
     left: 0;
     right: 0;
+    bottom: auto;
     top: 1rem;
-    transform: none;
     width: 100%;
     overflow-x: auto;
     justify-content: flex-start;
@@ -1006,7 +1018,6 @@ header {
   #lightbox-close {
     top: 3.75rem;
     right: 0.75rem;
-    font-size: 2.25rem;
   }
 
   #lb-strip::-webkit-scrollbar {
