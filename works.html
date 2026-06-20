@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Talan Memmott: Works on Screen, 1998-2016 | The NEXT</title>
+	<title>Works | Talan Memmott: Works on Screen, 1998-2016 | The NEXT</title>
 	<meta name="description"
 		content="An exhibition of 13 works of net art by Talan Memmott held by The NEXT, exploring the aesthetic of code, language, and code language. Curated by Dene Grigar. 3 March – 27 July 2026.">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,7 +11,7 @@
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
 
-<body class="page-landing">
+<body class="page-works">
 
 	<div class="bg-layer bg-grid" aria-hidden="true"></div>
 
@@ -24,15 +24,13 @@
 	<div class="bg-xy" aria-hidden="true">x,y</div>
 	<div class="bg-texture" aria-hidden="true"></div>
 
-
 	<header>
 		<div class="header-titles">
-			<h1 class="sr-only">Talan Memmott</h1>
+			<h1><a href="index.html" class="sr-only">Talan Memmott: exhibition home</a></h1>
 		</div>
-
-		<div class="landing-talan" aria-hidden="true"><span class="talan-word">Talan</span><span
-				class="landing-subtitle"><span class="subtitle-name">Talan Memmott</span>Works on Screen,
-				1998-2016</span>
+		<button class="nav-arrow" id="next-btn" aria-label="Next work">&gt;&gt;</button>
+		<div class="landing-talan" aria-hidden="true"><a href="index.html" class="landing-talan-link" tabindex="-1"><span class="talan-word">Talan</span><span
+			class="landing-subtitle"><span class="subtitle-name">Talan Memmott</span>Works on Screen, 1998-2016</span></a><span class="subtitle-page">Works</span>
 		</div>
 		<div class="landing-memmott" aria-hidden="true">Memmott</div>
 		<button class="nav-toggle" id="nav-toggle" aria-label="Open menu" aria-expanded="false">
@@ -42,72 +40,43 @@
 		</button>
 	</header>
 
-	<main class="landing-main">
 
-		<nav aria-label="Exhibition sections">
-			<ul class="landing-grid" role="list">
-				<li>
-					<a href="introduction.html" class="landing-card">
-						<img src="img/icon-1.svg" alt="" class="landing-icon">
-						<span class="landing-label">Introduction</span>
-					</a>
-				</li>
-				<li>
-					<a href="works.html" class="landing-card">
-						<img src="img/icon-2.svg" alt="" class="landing-icon">
-						<span class="landing-label">Works</span>
-					</a>
-				</li>
-				<li>
-					<a href="criticism.html" class="landing-card">
-						<img src="img/icon-3.svg" alt="" class="landing-icon">
-						<span class="landing-label">Criticism</span>
-					</a>
-				</li>
-				<li>
-					<a href="ephemera.html" class="landing-card">
-						<img src="img/icon-4.svg" alt="" class="landing-icon">
-						<span class="landing-label">Ephemera</span>
-					</a>
-				</li>
-				<li>
-					<a href="recordings.html" class="landing-card">
-						<img src="img/icon-5.svg" alt="" class="landing-icon">
-						<span class="landing-label">Recordings</span>
-					</a>
-				</li>
-				<li>
-					<a href="testimonials.html" class="landing-card">
-						<img src="img/icon-6.svg" alt="" class="landing-icon">
-						<span class="landing-label">Testimonials</span>
-					</a>
-				</li>
-				<li>
-					<a href="biography.html" class="landing-card">
-						<img src="img/icon-7.svg" alt="" class="landing-icon">
-						<span class="landing-label">Biography</span>
-					</a>
-				</li>
-				<li>
-					<a href="curatorial-statement.html" class="landing-card">
-						<img src="img/icon-8.svg" alt="" class="landing-icon">
-						<span class="landing-label">Statement</span>
-					</a>
-				</li>
-			</ul>
+	<div class="page-layout">
+
+		<nav id="sidebar-nav" class="sidebar-nav" aria-label="Exhibition works">
+			<ul role="list" id="works-nav-list"></ul>
 		</nav>
 
-		<div class="persistent-footer">
-			<button id="eye-btn" class="eye-btn" aria-label="Toggle line" aria-pressed="false">
-				<img src="img/eye.png" alt="" class="footer-eye">
-			</button>
+		<main id="main-content" class="main-content">
+			<div aria-live="polite" aria-atomic="true" class="sr-only" id="live-region"></div>
+			<article class="work-section" id="work-article" aria-labelledby="work-heading"></article>
+
+		</main>
+
+	</div>
+
+
+	<div id="lightbox" role="dialog" aria-modal="true" aria-label="Fullscreen media view">
+		<div id="lb-media-wrap">
+			<img id="lb-img" src="" alt="">
+			<video id="lb-video" controls playsinline></video>
+			<iframe id="lb-iframe" src="" frameborder="0"
+				allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
+				referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="">
+				<p class="lb-iframe-fallback">This work could not be embedded. It may be viewable directly at the
+					source.</p>
+			</iframe>
 		</div>
-
-	</main>
-
-
-	<div id="eye-line" aria-hidden="true"></div>
-
+		<button id="lb-prev" aria-label="Previous item">&#8249;</button>
+		<button id="lb-next" aria-label="Next item">&#8250;</button>
+		<nav id="lb-strip" aria-label="Media items"></nav>
+		<div id="lightbox-info">
+			<button id="lb-info-toggle" aria-label="Hide metadata" aria-expanded="true"></button>
+			<p id="lightbox-title"></p>
+			<dl id="lightbox-meta"></dl>
+		</div>
+		<button id="lightbox-close" aria-label="Close fullscreen view"><span class="lb-close-icon" aria-hidden="true">×</span> Close</button>
+	</div>
 
 
 	<nav class="site-nav" id="site-nav" aria-label="Site navigation">
@@ -130,6 +99,8 @@
 		crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 	<script src="js/global.js"></script>
+
+	<script src="js/works.js"></script>
 
 </body>
 
