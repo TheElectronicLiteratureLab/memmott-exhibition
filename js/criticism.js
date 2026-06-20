@@ -67,13 +67,6 @@ var _article = document.getElementById('criticism-article');
 var _liveRegion = document.getElementById('live-region');
 var _navList = document.getElementById('criticism-nav-list');
 
-function esc(str) {
-	return String(str)
-		.replace(/&/g, '&amp;')
-		.replace(/</g, '&lt;')
-		.replace(/>/g, '&gt;')
-		.replace(/"/g, '&quot;');
-}
 
 function renderArticleHTML(article) {
 	var byline = article.publication
@@ -90,7 +83,7 @@ function renderArticleHTML(article) {
 	}
 	return header +
 		'<div class="curatorial-body">' +
-		article.body.map(function (p) { return '<p>' + p + '</p>'; }).join('') +
+		(article.body ? article.body.map(function (p) { return '<p>' + p + '</p>'; }).join('') : '') +
 		'</div>';
 }
 

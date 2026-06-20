@@ -659,7 +659,6 @@ body.page-works .sidebar-nav {
   line-height: 1;
   cursor: pointer;
   padding: 0.35rem 0.75rem;
-  opacity: 0;
   transition: background 0.15s, color 0.15s, border-color 0.15s;
   display: flex;
   align-items: center;
@@ -755,14 +754,13 @@ body.page-works .sidebar-nav {
 .return-link {
   display: block;
   margin-top: 2.5rem;
-  padding: 0.65rem 0;
+  padding: 1rem 0 0.65rem;
   color: var(--text-dim);
   text-decoration: none;
   font-size: 1.0625rem;
   letter-spacing: 0.02em;
   transition: color 0.2s;
   border-top: 1px solid rgba(255, 255, 255, 0.06);
-  padding-top: 1rem;
 }
 
 .return-link:hover,
@@ -1082,6 +1080,12 @@ body.page-works .sidebar-nav {
   font-size: 1rem;
   opacity: 0.7;
   line-height: 1;
+}
+
+.lb-strip-label {
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
 }
 
 .lb-strip-item.is-active .lb-strip-icon {

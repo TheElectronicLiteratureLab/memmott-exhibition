@@ -496,13 +496,6 @@
 		var _nextBtn = document.getElementById('next-btn');
 		var _navList = document.getElementById('works-nav-list');
 
-		function esc(str) {
-			return String(str)
-				.replace(/&/g, '&amp;')
-				.replace(/</g, '&lt;')
-				.replace(/>/g, '&gt;')
-				.replace(/"/g, '&quot;');
-		}
 
 		function renderWorkHTML(work) {
 			if (work.type === 'statement') {

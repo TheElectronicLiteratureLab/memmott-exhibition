@@ -1,3 +1,11 @@
+function esc(str) {
+	return String(str)
+		.replace(/&/g, '&amp;')
+		.replace(/</g, '&lt;')
+		.replace(/>/g, '&gt;')
+		.replace(/"/g, '&quot;');
+}
+
 (function () {
 	var GREEN = 'brightness(0) saturate(100%) invert(67%) sepia(84%) saturate(700%) hue-rotate(74deg) brightness(106%)';
 	var SLICE_H = 5, MAX_SHIFT = 20, FRAME_SKIP = 4;
