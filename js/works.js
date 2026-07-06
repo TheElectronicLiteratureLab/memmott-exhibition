@@ -5,10 +5,10 @@
 				type: 'work',
 				version: 'v1.1',
 				year: '2001',
-				platform: 'Flash',
 				languages: 'CSS, DHTML, JavaScript',
 				format: 'Web',
 				publishedIn: 'frAme, Issue 6',
+				genre: '—',
 
 				image: 'https://the-next.eliterature.org/img/database/versions/2650/memmott-translucidity-gallery-1.gif',
 				media: [
@@ -28,10 +28,10 @@
 				title: 'Lexia to Perplexia',
 				type: 'work',
 				year: '2000',
-				platform: '—',
 				languages: 'CSS, DHTML, JavaScript',
 				format: 'Web',
 				publishedIn: 'The Iowa Review Web, Vol. 2',
+				genre: '—',
 
 				image: 'https://the-next.eliterature.org/img/database/versions/420/memmott-lexia-to-perplexia-gallery-1.jpg',
 				media: [
@@ -50,10 +50,10 @@
 				title: 'Toy Garbage',
 				type: 'work',
 				year: '2011',
-				platform: '—',
 				languages: 'CSS, DHTML, JavaScript',
 				format: 'Web',
 				publishedIn: 'Electronic Literature Collection, Vol. 3',
+				genre: '—',
 
 				image: 'https://the-next.eliterature.org/img/database/versions/822/memmott-toy-garbage-gallery-1.gif',
 				media: [
@@ -71,10 +71,10 @@
 				title: 'Reasoned Metagoria',
 				type: 'work',
 				year: '2000',
-				platform: '—',
 				languages: 'CSS, DHTML, JavaScript',
 				format: 'Web',
 				publishedIn: 'frAme, Issue 3',
+				genre: '—',
 
 				image: 'https://the-next.eliterature.org/img/database/versions/335/memmott-reasoned-metagoria-gallery-1.gif',
 				media: [
@@ -94,10 +94,10 @@
 				title: 'LUX: Bronzino 1540',
 				type: 'work',
 				year: '2000',
-				platform: '—',
 				languages: 'CSS, DHTML, JavaScript',
 				format: 'Web',
 				publishedIn: 'frAme, Issue 4',
+				genre: '—',
 
 				image: 'https://the-next.eliterature.org/img/database/versions/341/memmott-lux-gallery-1.gif',
 				media: [
@@ -118,10 +118,10 @@
 				title: "Lolli's Apartment",
 				type: 'work',
 				year: '2000',
-				platform: '—',
 				languages: 'CSS, DHTML, JavaScript',
 				format: 'Web',
 				publishedIn: 'Riding the Meridian',
+				genre: '—',
 
 				image: 'https://the-next.eliterature.org/img/database/versions/586/memmott-lollis-apartment-gallery-1.jpg',
 				media: [
@@ -142,10 +142,10 @@
 				title: 'Jilt; A Romance',
 				type: 'work',
 				year: '1998',
-				platform: '—',
 				languages: 'HTML, JavaScript',
 				format: 'Web',
 				publishedIn: 'BeeHive, Vol. 1, Issue 3',
+				genre: '—',
 
 				image: 'https://the-next.eliterature.org/img/database/versions/32/memmott-jilt-a-romance-gallery-1.gif',
 				media: [
@@ -165,10 +165,10 @@
 				title: 'Delimited Meshings',
 				type: 'work',
 				year: '2001',
-				platform: 'Flash',
 				languages: 'CSS, DHTML, JavaScript',
 				format: 'Web',
 				publishedIn: 'Cauldron & Net, Vol. 3, Issue 1',
+				genre: '—',
 
 				image: 'https://the-next.eliterature.org/img/database/versions/308/memmott-delimited-meshings-gallery-1.jpg',
 				media: [
@@ -187,10 +187,10 @@
 				title: 'Minute',
 				type: 'work',
 				year: '1999',
-				platform: '—',
 				languages: 'HTML, JavaScript',
 				format: 'Web',
 				publishedIn: 'Cauldron & Net, Vol. 1',
+				genre: '—',
 
 				image: 'https://the-next.eliterature.org/img/database/versions/258/memmott-minute-gallery-1.gif',
 				media: [
@@ -209,10 +209,10 @@
 				title: "Trimalchio's Diet",
 				type: 'work',
 				year: '1999',
-				platform: '—',
 				languages: 'HTML',
 				format: 'Web',
 				publishedIn: 'BeeHive, Vol. 2, Issue 2',
+				genre: '—',
 
 				image: 'https://the-next.eliterature.org/img/database/versions/71/memmott-trimalchios-diet-gallery-1.gif',
 				media: [
@@ -231,10 +231,10 @@
 				title: 'Self Portrait(s) [as Other(s)]',
 				type: 'work',
 				year: '2003',
-				platform: '—',
 				languages: 'CSS, HTML, JavaScript',
 				format: 'Web',
 				publishedIn: 'The Iowa Review Web, Vol. 5',
+				genre: '—',
 
 				image: 'https://the-next.eliterature.org/img/database/versions/441/memmott-self-portrait-s-as-other-s-gallery-1.gif',
 				media: [
@@ -253,10 +253,10 @@
 				title: 'Bread.Crumbs',
 				type: 'work',
 				year: '1998',
-				platform: '—',
 				languages: 'DHTML, JavaScript',
 				format: 'Web',
 				publishedIn: 'BeeHive, Vol. 1, Issue 1',
+				genre: '—',
 
 				image: 'https://the-next.eliterature.org/img/database/versions/10/memmott-bread-crumbs-gallery-1.gif',
 				media: [
@@ -274,10 +274,10 @@
 				title: 'Dérivepedia',
 				type: 'work',
 				year: '2016',
-				platform: '—',
 				languages: 'CSS, HTML5, JavaScript',
 				format: 'Web',
 				publishedIn: 'The New River, Spring 2016',
+				genre: '—',
 
 				image: 'https://the-next.eliterature.org/img/database/versions/2209/memmott-derivepedia-gallery-1.jpg',
 				media: [
@@ -296,11 +296,11 @@
 				id: 'twitterings',
 				title: 'Twittering',
 				type: 'work',
-				year: '—',
-				platform: '—',
+				year: '2007',
 				languages: '—',
 				format: '—',
-				publishedIn: '—',
+				publishedIn: 'ePoetry Festival, Paris',
+				genre: 'Procedural Novel',
 				image: 'img/twittering-1.jpg',
 				media: [
 					{ type: 'iframe', src: 'https://archive.the-next.org/memmott/preserved/twittering/index.html', label: 'Twittering — view work', alt: 'Twittering interactive work embedded', resolution: { w: 800, h: 600 } },
@@ -311,8 +311,8 @@
 				],
 				imageAlt: 'Gallery image 1 from Twittering',
 				imageCaption: '',
-				description: '[Description pending]',
-				quoteSource: ''
+				description: '"Twittering, A Procedural Novel" (aka "My Molly (Departed)"), remixes text, image, audio, and video triggered through keyboard interaction. The piece coexists with a novel (Free Dogma Press) that was written simultaneous to the development of this work. Where the novel plays on aspects of time, and draws from sources such as Joyce, Strindberg, Beckett, Dante, among others; the hypermedia textual instrument combines these in a more immediate, collapsed manner.',
+				quoteSource: 'Talan Memmott'
 			},
 			{
 				id: 'sky-scratchez',
@@ -320,10 +320,10 @@
 				type: 'work',
 				coAuthor: 'Mez Breeze',
 				year: '1999',
-				platform: '—',
-				languages: 'HTML, CSS, JavaScript',
+				languages: 'HTML, JavaScript',
 				format: 'Web',
-				publishedIn: 'BeeHive',
+				publishedIn: 'BeeHive, Vol. 2, Issue 2',
+				genre: 'Net Art',
 				image: 'https://the-next.org/img/database/versions/142/breeze-sky-scratchez-gallery-1.jpg',
 				media: [
 					{ type: 'iframe', src: 'https://archive.the-next.org/beehive/preserved/content_apps25/skyscratchez/00.html', label: 'Sky Scratchez — view work', alt: 'Sky Scratchez interactive work embedded', resolution: { w: 800, h: 600 } },
@@ -331,42 +331,44 @@
 				],
 				imageAlt: 'Gallery image 1 from Sky Scratchez',
 				imageCaption: '',
-				description: '\'Sky Scratchez\' is a collaboration between Mez and [Memmott writing as _knott404–]\n\nThe writing (as in words) is almost exclusive Mez\'s. (with the exception of a few pop-up segments of my own, which are commentary [of a sort] on Mez\'s writing... )\n\nThe functionality and the design of the piece is almost exclusively [Memmott\'s] though heavily inspired by [Memmott\'s] reading of Mez\'s \'sky scratchez\' words.',
+				description: '"Sky Scratchez" is a collaboration between Mez and [Memmott writing as _knott404–]\n\nThe writing (as in words) is almost exclusive Mez\'s. (with the exception of a few pop-up segments of my own, which are commentary [of a sort] on Mez\'s writing... )\n\nThe functionality and the design of the piece is almost exclusively [Memmott\'s] though heavily inspired by [Memmott\'s] reading of Mez\'s "sky scratchez" words.',
 				quoteSource: '_knott404–'
 			},
 			{
 				id: 'nonce-executor',
-				title: 'Nonce Executor',
+				title: 'Nonce.Executor',
 				type: 'work',
-				year: '2009',
-				platform: '—',
+				year: '2011',
 				languages: '—',
-				format: 'Video',
-				publishedIn: '—',
+				format: 'Web',
+				publishedIn: '"Language to Cover a Wall" exhibition; SUNY Buffalo, University of Buffalo Art Gallery',
+				publishedInLabel: 'Published At',
+				genre: 'Video Poem',
 				image: 'img/nonce-executor-1.jpg',
 				media: [
-					{ type: 'vimeo', src: 'https://player.vimeo.com/video/1195766296?badge=0&autopause=0&player_id=0&app_id=58479&title=0&byline=0&portrait=0&dnt=1&autoplay=1', label: 'Nonce Executor', alt: 'Nonce Executor video', buttonLabel: 'Work' },
-					{ type: 'image', src: 'img/nonce-executor-1.jpg', alt: 'Gallery image 1 from Nonce Executor' },
-					{ type: 'image', src: 'img/nonce-executor-2.jpg', alt: 'Gallery image 2 from Nonce Executor' },
-					{ type: 'image', src: 'img/nonce-executor-3.jpg', alt: 'Gallery image 3 from Nonce Executor' },
-					{ type: 'image', src: 'img/nonce-executor-4.jpg', alt: 'Gallery image 4 from Nonce Executor' },
-					{ type: 'image', src: 'img/nonce-executor-5.jpg', alt: 'Gallery image 5 from Nonce Executor' }
+					{ type: 'vimeo', src: 'https://player.vimeo.com/video/1195766296?badge=0&autopause=0&player_id=0&app_id=58479&title=0&byline=0&portrait=0&dnt=1&autoplay=1', label: 'Nonce.Executor', alt: 'Nonce.Executor video', buttonLabel: 'Work' },
+					{ type: 'image', src: 'img/nonce-executor-1.jpg', alt: 'Gallery image 1 from Nonce.Executor' },
+					{ type: 'image', src: 'img/nonce-executor-2.jpg', alt: 'Gallery image 2 from Nonce.Executor' },
+					{ type: 'image', src: 'img/nonce-executor-3.jpg', alt: 'Gallery image 3 from Nonce.Executor' },
+					{ type: 'image', src: 'img/nonce-executor-4.jpg', alt: 'Gallery image 4 from Nonce.Executor' },
+					{ type: 'image', src: 'img/nonce-executor-5.jpg', alt: 'Gallery image 5 from Nonce.Executor' }
 				],
-				imageAlt: 'Gallery image 1 from Nonce Executor',
+				imageAlt: 'Gallery image 1 from Nonce.Executor',
 				imageCaption: '',
-				description: '[Description pending]',
-				quoteSource: ''
+				description: 'Atop an original, haunting string score, ambient sound, and barely audible whispers; layered, heavily processed and glitched video the corrupted data of faulty ekphrasis, of homophones, puns, and alternative definitions play. "People" becomes "peephole", "I see you" becomes "eye sea ewe", and to "eschew" is defined as "circumvention by way of abstinence." Nonce.Executor is a video-poem concerned with the over-formulation of nonsense; and, how meaning-making can become a fluid process.',
+				quoteSource: 'Talan Memmott'
 			},
 			{
 				id: 'interrogating-electronic-literature',
 				title: 'Interrogating Electronic Literature',
 				type: 'work',
-				coAuthor: 'David Prater',
-				year: '—',
-				platform: '—',
+				coAuthor: 'David Plater',
+				year: '2011',
 				languages: '—',
-				format: 'Video Essay',
-				publishedIn: '—',
+				format: 'Web',
+				publishedIn: 'ELMCIP Electronic Literature and New Media Art Seminar; Ljubljana, Slovenia',
+				publishedInLabel: 'Published At',
+				genre: 'Video Essay',
 				image: 'img/interrogating-elit-1.jpg',
 				media: [
 					{ type: 'vimeo', src: 'https://player.vimeo.com/video/1195766294?badge=0&autopause=0&player_id=0&app_id=58479&title=0&byline=0&portrait=0&dnt=1&autoplay=1', label: 'Interrogating Electronic Literature', alt: 'Interrogating Electronic Literature video', buttonLabel: 'Work' },
@@ -378,19 +380,20 @@
 				],
 				imageAlt: 'Gallery image 1 from Interrogating Electronic Literature',
 				imageCaption: '',
-				description: '[Description pending]',
-				quoteSource: ''
+				description: 'Does electronic literature have a future? Is Google the end of the World? What is the role of digital poetics in global politics? These issues and more are discussed with J. R. Carpenter, John Cayley, Maria Mencia, Scott Rettberg, Alexandra Saemmer, Roberto Simanowski, and Jaka Železnikar.',
+				quoteSource: 'ELMCIP.net'
 			},
 			{
 				id: 'touching-words',
 				title: 'Touching Words',
 				type: 'work',
-				coAuthor: 'David Prater',
-				year: '—',
-				platform: '—',
+				coAuthor: 'David Plater',
+				year: '2012',
 				languages: '—',
-				format: 'Video Essay',
-				publishedIn: '—',
+				format: 'Web',
+				publishedIn: 'Workshop on Curating and Exhibiting Electronic Literature; Bergen, Norway',
+				publishedInLabel: 'Published At',
+				genre: 'Video Essay / Documentary',
 				image: 'img/touching-words-1.jpg',
 				media: [
 					{ type: 'vimeo', src: 'https://player.vimeo.com/video/1195766295?badge=0&autopause=0&player_id=0&app_id=58479&title=0&byline=0&portrait=0&dnt=1&autoplay=1', label: 'Touching Words', alt: 'Touching Words video', buttonLabel: 'Work' },
@@ -401,18 +404,19 @@
 				],
 				imageAlt: 'Gallery image 1 from Touching Words',
 				imageCaption: '',
-				description: '[Description pending]',
-				quoteSource: ''
+				description: 'Cris Cheek, Maria Engberg, Jörg Piringer, and Christine Wilks discuss tactile media, intentionality, messy screens, and electronic literary works fading into the past. The video-essay was shot at the ELMCIP Digital Textuality with/in Performance Seminar held in Bristol UK. May 2012. Electronic Literature as a Model of Creativity and Innovation in Practice (ELMCIP) is a collaborative research project funded by the Humanities in the European Research Area (HERA) JRP for Creativity and Innovation. Length: 9:29',
+				quoteSource: 'ELMCIP.net'
 			},
 			{
 				id: 'spacing',
 				title: '(S)Pacing',
 				type: 'work',
-				year: '2010',
-				platform: '—',
+				year: '2009',
 				languages: '—',
-				format: 'Installation',
-				publishedIn: '—',
+				format: 'Web',
+				publishedIn: 'ePoetry Festival, University of Buffalo, 2011',
+				publishedInLabel: 'Published At',
+				genre: 'Documentation of an Interactive Installation',
 				image: 'img/spacing-1.jpg',
 				media: [
 					{ type: 'vimeo', src: 'https://player.vimeo.com/video/1195766293?badge=0&autopause=0&player_id=0&app_id=58479&title=0&byline=0&portrait=0&dnt=1&autoplay=1', label: '(S)Pacing', alt: '(S)Pacing video', buttonLabel: 'Documentation' },
@@ -423,8 +427,8 @@
 				],
 				imageAlt: 'Gallery image 1 from (S)Pacing',
 				imageCaption: '',
-				description: '[Description pending]',
-				quoteSource: ''
+				description: '"(S)PACING" is a poetic performance piece that reflects upon the nervous habit of pacing and ideas of internal dialogue while walking as a source of poetic inspiration and contemplation, if not procrastination. The application for performance can either be played on the keyboard, or use live video motion tracking to access and combine screen-based still image, video, text, and audio content. The title of the piece refers not only to the act of pacing but also to pacing as a measure of time. The addition of the (s) at the beginning of the title, rendering the title spacing, could be said to refer not only to the locative and defamiliarizing spatial variations in the piece but also to formal aspects of poetry such as meter, feet, line breaks and stanzas. Though the performance, the actions of the performer may be fundamentally pedestrian they are put in contrast with mental and poetic machination in terms of the poetic output generated by the movement. In effect, the performer develops a system of, and has live action control over the scansion of the generated poem while handing over control of the vocalizations, imagery, and textual display to the application. The work made its debut at ePoetry 2009 (Barcelona), and was presented in installation form at ePoetry 2011 (Buffalo).',
+				quoteSource: 'ELMCIP.net'
 			},
 			{
 				id: 'intermission',
@@ -432,10 +436,11 @@
 				type: 'work',
 				coAuthor: 'Eric Snodgrass',
 				year: '2011',
-				platform: '—',
 				languages: '—',
-				format: 'Performance',
-				publishedIn: '—',
+				format: 'Web',
+				publishedIn: 'ePoetry Festival, University of Buffalo, 2011',
+				publishedInLabel: 'Published At',
+				genre: 'Documentation of a Performance',
 				image: 'img/intermission-1.jpg',
 				media: [
 					{ type: 'vimeo', src: 'https://player.vimeo.com/video/28596865?badge=0&autopause=0&player_id=0&app_id=58479&title=0&byline=0&portrait=0&dnt=1&autoplay=1', label: 'Intermission (2011), performed by Talan Memmott and Eric Snodgrass', alt: 'Video of Intermission performance', buttonLabel: 'Documentation' },
@@ -446,18 +451,19 @@
 				],
 				imageAlt: 'Gallery image 1 from Intermission',
 				imageCaption: '',
-				description: '[Description pending]',
-				quoteSource: ''
+				description: '"Intermission" is a performative redadaction of the poetics of cinema. The performance and media platform utilizes René Clair\'s short film Entr\'acte (1924, a collaboration with Picabia and Erik Satie) as a starting point, reimagining cinema as if the Dadaist vision for the medium had become the prevalent form.',
+				quoteSource: 'ELMCIP.net'
 			},
 			{
 				id: 'the-hugo-ball',
 				title: 'The Hugo Ball',
 				type: 'work',
-				year: '—',
-				platform: '—',
+				coAuthor: 'Eric Snodgrass',
+				year: '2006',
 				languages: '—',
-				format: '—',
-				publishedIn: '—',
+				format: 'Web',
+				publishedIn: 'Drunken Boat, Issue #8',
+				genre: 'Flash Poem',
 				image: 'img/hugo-ball-1.jpg',
 				media: [
 					{ type: 'iframe', src: 'https://archive.the-next.org/drunkenboat/preserved/db8/panlitjudges/memmott/index.html', label: 'The Hugo Ball — view work', alt: 'The Hugo Ball interactive work embedded', resolution: { w: 800, h: 600 } },
@@ -466,26 +472,27 @@
 				],
 				imageAlt: 'Gallery image 1 from The Hugo Ball',
 				imageCaption: '',
-				description: '[Description pending]',
-				quoteSource: ''
+				description: '"The Hugo Ball," subtitled "Algorithmic Improvisations on the 74 unique words of Gadji Beri Bimba" is exactly that. Using Hugo Ball\'s Dadaist poem as a source this piece remixes the 74 unique words of the poem to generate – on the fly – countless variations.',
+				quoteSource: 'ELMCIP.net'
 			},
 			{
 				id: 'digital-culture-lecture-world-tour',
-				title: 'Digital Culture Lecture World Tour',
+				title: 'Digital Culture World Lecture Tour',
 				type: 'work',
 				year: '2014',
-				platform: 'Twitter',
 				languages: '—',
-				format: 'Image',
+				format: 'Web',
 				publishedIn: 'Twitter',
+				publishedInLabel: 'Published On',
+				genre: 'NetProv',
 				image: 'img/digital-culture-lecture-world-tour-1.jpg',
 				media: [
-					{ type: 'vimeo', src: 'https://player.vimeo.com/video/1202944123?h=6766fd013f&badge=0&autopause=0&player_id=0&app_id=58479&title=0&byline=0&portrait=0&dnt=1&autoplay=1', label: 'Digital Culture Lecture World Tour', alt: 'Digital Culture Lecture World Tour video', buttonLabel: 'Documentation' }
+					{ type: 'vimeo', src: 'https://player.vimeo.com/video/1202944123?h=6766fd013f&badge=0&autopause=0&player_id=0&app_id=58479&title=0&byline=0&portrait=0&dnt=1&autoplay=1', label: 'Digital Culture World Lecture Tour', alt: 'Digital Culture World Lecture Tour video', buttonLabel: 'Documentation' }
 				],
-				imageAlt: 'Digital Culture Lecture World Tour',
+				imageAlt: 'Digital Culture World Lecture Tour',
 				imageCaption: '',
-				description: '[Description pending]',
-				quoteSource: ''
+				description: 'Digital Culture World Lecture Tour is an online, social network performance based around a fictionalized world tour. The piece presents fake billboards for various venues on the tour.',
+				quoteSource: 'ELMCIP.net'
 			}
 		];
 
@@ -513,6 +520,20 @@
 			}
 
 			var versionStr = work.version ? ' (' + esc(work.version) + ')' : '';
+			var metaFields = [
+				{ label: 'Year', value: work.year },
+				{ label: 'Computer Language(s)', value: work.languages || '—' },
+				{ label: 'Original Media Format', value: work.format },
+				{ label: work.publishedInLabel || 'Published In', value: work.publishedIn },
+				{ label: 'Genre', value: work.genre || '—' }
+			];
+			if (work.coAuthor) metaFields.push({ label: 'Co-authored With', value: work.coAuthor });
+			var metaHTML = metaFields.filter(function (f) {
+				return f.value !== '—';
+			}).map(function (f) {
+				return '<div class="meta-group"><dt>' + esc(f.label) + '</dt><dd>' + esc(f.value) + '</dd></div>';
+			}).join('');
+
 			return '<h2 id="work-heading" class="work-title">' + esc(work.title) + versionStr + '</h2>' +
 				(work.image ? '<figure>' +
 				'<img class="work-image" src="' + esc(work.image) + '" alt="' + esc(work.imageAlt) + '">' +
@@ -521,12 +542,7 @@
 				'<div class="work-lower">' +
 				'<div class="work-meta">' +
 				'<dl>' +
-				'<div class="meta-group"><dt>Year</dt><dd>' + esc(work.year) + '</dd></div>' +
-				'<div class="meta-group"><dt>Authoring Platform</dt><dd>' + esc(work.platform) + '</dd></div>' +
-				'<div class="meta-group"><dt>Computer Language(s)</dt><dd>' + esc(work.languages || '—') + '</dd></div>' +
-				'<div class="meta-group"><dt>Original Media Format</dt><dd>' + esc(work.format) + '</dd></div>' +
-				'<div class="meta-group"><dt>Published In</dt><dd>' + esc(work.publishedIn) + '</dd></div>' +
-				(work.coAuthor ? '<div class="meta-group"><dt>Co-authored With</dt><dd>' + esc(work.coAuthor) + '</dd></div>' : '') +
+				metaHTML +
 				'</dl>' +
 				'</div>' +
 				'<div class="work-quote-area">' +
@@ -655,13 +671,15 @@
 				lightboxTitle.textContent = work.title + (work.version ? ' (' + work.version + ')' : '');
 				var fields = [
 					{ label: 'Year', value: work.year },
-					{ label: 'Authoring Platform', value: work.platform },
 					{ label: 'Computer Language(s)', value: work.languages || '—' },
 					{ label: 'Original Media Format', value: work.format },
-					{ label: 'Published In', value: work.publishedIn }
+					{ label: work.publishedInLabel || 'Published In', value: work.publishedIn },
+					{ label: 'Genre', value: work.genre || '—' }
 				];
 				if (work.coAuthor) fields.push({ label: 'Co-authored With', value: work.coAuthor });
-				lightboxMeta.innerHTML = fields.map(function (f) {
+				lightboxMeta.innerHTML = fields.filter(function (f) {
+					return f.value !== '—';
+				}).map(function (f) {
 					return '<div class="lb-meta-group"><dt>' + f.label + '</dt><dd>' + f.value + '</dd></div>';
 				}).join('');
 			}

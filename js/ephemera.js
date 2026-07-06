@@ -1,67 +1,71 @@
 var ephemeraItems = [
 	{
 		id: 'lexia-to-perplexia-book',
-		label: 'Lexia to Perplexia',
+		label: 'Lexia to Perplexia, Book',
 		front: 'lexia-to-perplexia-front.png',
-		back: 'lexia-to-perplexia-back.png'
+		back: 'lexia-to-perplexia-back.png',
+		caption: 'The book edition of "Lexia to Perplexia" by Talan Memmott, dated 2025.'
 	},
 	{
 		id: 'hyper-text-card',
-		label: 'Hyper Text Card',
+		label: 'hyper_text',
 		front: 'hyper_text_card-front.png',
-		back: 'hyper_text_card-back.png'
-	},
-	{
-		id: 'cyberarts-festival-card',
-		label: 'Boston Cyberarts Festival Card',
-		front: 'cyberarts-festival-card-front.png',
-		back: 'cyberarts-festival-card-back.png'
-	},
-	{
-		id: 'future-of-elit-card',
-		label: 'Future of E-Lit Card',
-		front: 'future-of-elit-card.png'
+		back: 'hyper_text_card-back.png',
+		caption: 'The announcement card for the reading series held at the UCLA Hammer Museum in spring 2004, featuring Memmott and Noah Waldrip-Fruin.'
 	},
 	{
 		id: 'hammer-museum',
-		label: 'Hammer Museum',
+		label: 'The Hammer Calendar',
 		front: 'hammer-museum-booket-front.png',
-		back: 'hammer-museum-booklet-back.png'
+		back: 'hammer-museum-booklet-back.png',
+		caption: 'The printed calendar of the UCLA Hammer Museum events, which lists the hyper_text reading series.'
 	},
 	{
-		id: 'elo-booklet',
-		label: 'ELO Booklet',
-		front: 'elo-booklet-front.png',
-		back: 'elo-booklet-back.png',
-		inside: 'elo-booklet-inside.png'
-	},
-	{
-		id: 'elo-2001-awards-booklet',
-		label: 'ELO 2001 Awards Booklet',
-		front: 'elo-2001-awards-booklet.png',
-		back: 'elo-2001-awards-booklet-back.png'
+		id: 'cyberarts-festival-card',
+		label: 'Boston Cyberarts Festival',
+		front: 'cyberarts-festival-card-front.png',
+		back: 'cyberarts-festival-card-back.png',
+		caption: 'The announcement card for the Boston Cyberarts Festival, where Memmott performed at the Boston Public Library on April 25.'
 	},
 	{
 		id: 'boston-cyberarts-booklet',
-		label: 'Boston Cyberarts Festival Program',
+		label: 'The Boston Cyberarts Festival Program',
 		front: 'boston-cyberarts-festival-front.png',
 		back: 'boston-cyberarts-festival-back.png',
-		inside: 'boston-cyberarts-festival-inside.png'
+		inside: 'boston-cyberarts-festival-inside.png',
+		caption: 'The Boston Cyberarts Festival program, listing Memmott\'s performance at the Boston T1 Party, with other electronic literature artists.'
+	},
+	{
+		id: 'future-of-elit-card',
+		label: 'The Future of Electronic Literature',
+		front: 'future-of-elit-card.png',
+		caption: 'The announcement card for The Future of Electronic Literature Symposium in May 2007 at the University of Maryland, College Park, where Memmott read from "Lexia to Perplexia" during the "Electric Hour."'
+	},
+	{
+		id: 'elo-booklet',
+		label: 'The State of the Arts Program',
+		front: 'elo-booklet-front.png',
+		back: 'elo-booklet-back.png',
+		inside: 'elo-booklet-inside.png',
+		caption: 'The printed program from the ELO\'s State of the Arts Conference held at UCLA in 2002. Memmott is listed as a panelist at the event on page 10 of the program.'
 	},
 	{
 		id: 'elo-2001-awards-poster',
-		label: 'ELO 2001 Awards Poster',
-		front: 'elo-2001-awards-poster.png'
+		label: 'ELO 2001 Competition for Fiction and Poetry',
+		front: 'elo-2001-awards-poster.png',
+		caption: 'The flyer promoting ELO\'s 2001 competition for fiction and poetry. Memmott was short-listed for his work, "Lexia to Perplexia," in the fiction category.'
 	},
 	{
 		id: 'gig',
-		label: 'Gig',
-		front: 'gig-2.png'
+		label: 'GiG 2.0',
+		front: 'gig-2.png',
+		caption: 'The promotional flyer for GiG 2.0 that took place in December 2000 in Chicago, where Memmott presented his journal BeeHive.'
 	},
 	{
 		id: 'elc',
-		label: 'ELC',
-		front: 'elc-1.png'
+		label: 'Electronic Literature Volume One',
+		front: 'elc-1.png',
+		caption: 'The ELC Volume 1 (2006) Announcement Card listing Talan Memmott among the artists featured in it.'
 	}
 ];
 
@@ -71,6 +75,7 @@ var _modalInner = document.getElementById('ep-modal-inner');
 var _modalImg = document.getElementById('ep-modal-img');
 var _modalInfo = document.getElementById('ep-modal-info');
 var _modalTitle = document.getElementById('ep-modal-title');
+var _modalCaption = document.getElementById('ep-modal-caption');
 var _modalViews = document.getElementById('ep-modal-views');
 var _modalClose = document.getElementById('ep-modal-close');
 var _activeItem = null;
@@ -174,6 +179,7 @@ function openModal(item, sourceEl) {
 	_modalImg.src = 'img/' + item.front;
 	_modalImg.alt = item.label + ' — front';
 	_modalTitle.textContent = item.label;
+	_modalCaption.textContent = item.caption || '';
 
 	_modalInner.style.transition = 'none';
 	_modalInner.style.transform = 'rotateY(0deg)';
