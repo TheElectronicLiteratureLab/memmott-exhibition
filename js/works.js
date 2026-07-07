@@ -33,10 +33,10 @@
 				publishedIn: 'The Iowa Review Web, Vol. 2',
 				genre: '—',
 
-				image: 'https://the-next.eliterature.org/img/database/versions/420/memmott-lexia-to-perplexia-gallery-1.jpg',
+				image: 'https://the-next.eliterature.org/img/database/versions/420/memmott-lexia-to-perplexia-gallery-1.gif',
 				media: [
 					{ type: 'vimeo', src: 'https://player.vimeo.com/video/1111438827?badge=0&autopause=0&player_id=0&app_id=58479&title=0&byline=0&portrait=0&dnt=1&autoplay=1', label: 'Talan Memmott\'s "Lexia to Perplexia" (2000), performed by Memmott', alt: 'Traversal video of Lexia to Perplexia' },
-					{ type: 'image', src: 'https://the-next.eliterature.org/img/database/versions/420/memmott-lexia-to-perplexia-gallery-1.jpg', alt: 'Gallery image 1 from Lexia to Perplexia' },
+					{ type: 'image', src: 'https://the-next.eliterature.org/img/database/versions/420/memmott-lexia-to-perplexia-gallery-1.gif', alt: 'Gallery image 1 from Lexia to Perplexia' },
 					{ type: 'image', src: 'https://the-next.eliterature.org/img/database/versions/420/memmott-lexia-to-perplexia-gallery-2.jpg', alt: 'Gallery image 2 from Lexia to Perplexia' },
 					{ type: 'image', src: 'https://the-next.eliterature.org/img/database/versions/420/memmott-lexia-to-perplexia-gallery-3.jpg', alt: 'Gallery image 3 from Lexia to Perplexia' }
 				],
@@ -123,11 +123,11 @@
 				publishedIn: 'Riding the Meridian',
 				genre: '—',
 
-				image: 'https://the-next.eliterature.org/img/database/versions/586/memmott-lollis-apartment-gallery-1.jpg',
+				image: 'https://the-next.eliterature.org/img/database/versions/586/memmott-lollis-apartment-gallery-1.gif',
 				media: [
 					{ type: 'iframe', src: 'https://archive.the-next.eliterature.org/meridian/preserved/talan/rawmech-00.html', label: 'Lolli\'s Apartment — view work', alt: 'Lolli\'s Apartment interactive work embedded', resolution: { w: 640, h: 480 } },
 					{ type: 'vimeo', src: 'https://player.vimeo.com/video/1113991100?badge=0&autopause=0&player_id=0&app_id=58479&title=0&byline=0&portrait=0&dnt=1&autoplay=1', label: 'Talan Memmott\'s "Lolli\'s Apartment" (2000), performed by Talan Memmott', alt: 'Traversal video of Lolli\'s Apartment' },
-					{ type: 'image', src: 'https://the-next.eliterature.org/img/database/versions/586/memmott-lollis-apartment-gallery-1.jpg', alt: "Gallery image 1 from Lolli's Apartment" },
+					{ type: 'image', src: 'https://the-next.eliterature.org/img/database/versions/586/memmott-lollis-apartment-gallery-1.gif', alt: "Gallery image 1 from Lolli's Apartment" },
 					{ type: 'image', src: 'https://the-next.eliterature.org/img/database/versions/586/memmott-lollis-apartment-gallery-2.jpg', alt: "Gallery image 2 from Lolli's Apartment" },
 					{ type: 'image', src: 'https://the-next.eliterature.org/img/database/versions/586/memmott-lollis-apartment-gallery-3.jpg', alt: "Gallery image 3 from Lolli's Apartment" },
 					{ type: 'image', src: 'https://the-next.eliterature.org/img/database/versions/586/memmott-lollis-apartment-gallery-4.jpg', alt: "Gallery image 4 from Lolli's Apartment" }
@@ -170,10 +170,10 @@
 				publishedIn: 'Cauldron & Net, Vol. 3, Issue 1',
 				genre: '—',
 
-				image: 'https://the-next.eliterature.org/img/database/versions/308/memmott-delimited-meshings-gallery-1.jpg',
+				image: 'https://the-next.eliterature.org/img/database/versions/308/memmott-delimited-meshings-gallery-1.gif',
 				media: [
 					{ type: 'iframe', src: 'https://archive.the-next.eliterature.org/cauldronandnet/preserved/volume3/confluence/talan_memmott/delimited_meshings/index.html', label: 'Delimited Meshings — view work', alt: 'Delimited Meshings interactive work embedded', resolution: { w: 800, h: 600 } },
-					{ type: 'image', src: 'https://the-next.eliterature.org/img/database/versions/308/memmott-delimited-meshings-gallery-1.jpg', alt: 'Gallery image 1 from Delimited Meshings' },
+					{ type: 'image', src: 'https://the-next.eliterature.org/img/database/versions/308/memmott-delimited-meshings-gallery-1.gif', alt: 'Gallery image 1 from Delimited Meshings' },
 					{ type: 'image', src: 'https://the-next.eliterature.org/img/database/versions/308/memmott-delimited-meshings-gallery-2.jpg', alt: 'Gallery image 2 from Delimited Meshings' },
 					{ type: 'image', src: 'https://the-next.eliterature.org/img/database/versions/308/memmott-delimited-meshings-gallery-3.jpg', alt: 'Gallery image 3 from Delimited Meshings' }
 				],
@@ -279,10 +279,10 @@
 				publishedIn: 'The New River, Spring 2016',
 				genre: '—',
 
-				image: 'https://the-next.eliterature.org/img/database/versions/2209/memmott-derivepedia-gallery-1.jpg',
+				image: 'https://the-next.eliterature.org/img/database/versions/2209/memmott-derivepedia-gallery-1.gif',
 				media: [
 					{ type: 'iframe', src: 'https://archive.the-next.eliterature.org/newriver/preserved/spring-2016/derivepedia/index.html', label: 'Dérivepedia — view work', alt: 'Dérivepedia interactive work embedded', resolution: { w: 1366, h: 768 } },
-					{ type: 'image', src: 'https://the-next.eliterature.org/img/database/versions/2209/memmott-derivepedia-gallery-1.jpg', alt: 'Gallery image 1 from Dérivepedia' },
+					{ type: 'image', src: 'https://the-next.eliterature.org/img/database/versions/2209/memmott-derivepedia-gallery-1.gif', alt: 'Gallery image 1 from Dérivepedia' },
 					{ type: 'image', src: 'https://the-next.eliterature.org/img/database/versions/2209/memmott-derivepedia-gallery-2.jpg', alt: 'Gallery image 2 from Dérivepedia' },
 					{ type: 'image', src: 'https://the-next.eliterature.org/img/database/versions/2209/memmott-derivepedia-gallery-3.jpg', alt: 'Gallery image 3 from Dérivepedia' },
 					{ type: 'image', src: 'https://the-next.eliterature.org/img/database/versions/2209/memmott-derivepedia-gallery-4.jpg', alt: 'Gallery image 4 from Dérivepedia' }
@@ -301,13 +301,13 @@
 				format: '—',
 				publishedIn: 'ePoetry Festival, Paris',
 				genre: 'Procedural Novel',
-				image: 'img/twittering-1.jpg',
+				image: 'img/memmott-twittering-gallery-1.gif',
 				media: [
 					{ type: 'iframe', src: 'https://archive.the-next.org/memmott/preserved/twittering/index.html', label: 'Twittering — view work', alt: 'Twittering interactive work embedded', resolution: { w: 800, h: 600 } },
-					{ type: 'image', src: 'img/twittering-1.jpg', alt: 'Gallery image 1 from Twittering' },
-					{ type: 'image', src: 'img/twittering-2.jpg', alt: 'Gallery image 2 from Twittering' },
-					{ type: 'image', src: 'img/twittering-3.jpg', alt: 'Gallery image 3 from Twittering' },
-					{ type: 'image', src: 'img/twittering-4.jpg', alt: 'Gallery image 4 from Twittering' }
+					{ type: 'image', src: 'img/memmott-twittering-gallery-1.gif', alt: 'Gallery image 1 from Twittering' },
+					{ type: 'image', src: 'img/memmott-twittering-gallery-2.jpg', alt: 'Gallery image 2 from Twittering' },
+					{ type: 'image', src: 'img/memmott-twittering-gallery-3.jpg', alt: 'Gallery image 3 from Twittering' },
+					{ type: 'image', src: 'img/memmott-twittering-gallery-4.jpg', alt: 'Gallery image 4 from Twittering' }
 				],
 				imageAlt: 'Gallery image 1 from Twittering',
 				imageCaption: '',
@@ -324,10 +324,13 @@
 				format: 'Web',
 				publishedIn: 'BeeHive, Vol. 2, Issue 2',
 				genre: 'Net Art',
-				image: 'https://the-next.org/img/database/versions/142/breeze-sky-scratchez-gallery-1.jpg',
+				image: 'img/memmott-sky-scratchez-gallery-1.gif',
 				media: [
 					{ type: 'iframe', src: 'https://archive.the-next.org/beehive/preserved/content_apps25/skyscratchez/00.html', label: 'Sky Scratchez — view work', alt: 'Sky Scratchez interactive work embedded', resolution: { w: 800, h: 600 } },
-					{ type: 'image', src: 'https://the-next.org/img/database/versions/142/breeze-sky-scratchez-gallery-1.jpg', alt: 'Gallery image 1 from Sky Scratchez' }
+					{ type: 'image', src: 'img/memmott-sky-scratchez-gallery-1.gif', alt: 'Gallery image 1 from Sky Scratchez' },
+					{ type: 'image', src: 'img/memmott-sky-scratchez-gallery-2.jpg', alt: 'Gallery image 2 from Sky Scratchez' },
+					{ type: 'image', src: 'img/memmott-sky-scratchez-gallery-3.jpg', alt: 'Gallery image 3 from Sky Scratchez' },
+					{ type: 'image', src: 'img/memmott-sky-scratchez-gallery-4.jpg', alt: 'Gallery image 4 from Sky Scratchez' }
 				],
 				imageAlt: 'Gallery image 1 from Sky Scratchez',
 				imageCaption: '',
@@ -344,14 +347,14 @@
 				publishedIn: '"Language to Cover a Wall" exhibition; SUNY Buffalo, University of Buffalo Art Gallery',
 				publishedInLabel: 'Published At',
 				genre: 'Video Poem',
-				image: 'img/nonce-executor-1.jpg',
+				image: 'img/memmott-nonce-executor-gallery-1.gif',
 				media: [
 					{ type: 'vimeo', src: 'https://player.vimeo.com/video/1195766296?badge=0&autopause=0&player_id=0&app_id=58479&title=0&byline=0&portrait=0&dnt=1&autoplay=1', label: 'Nonce.Executor', alt: 'Nonce.Executor video', buttonLabel: 'Work' },
-					{ type: 'image', src: 'img/nonce-executor-1.jpg', alt: 'Gallery image 1 from Nonce.Executor' },
-					{ type: 'image', src: 'img/nonce-executor-2.jpg', alt: 'Gallery image 2 from Nonce.Executor' },
-					{ type: 'image', src: 'img/nonce-executor-3.jpg', alt: 'Gallery image 3 from Nonce.Executor' },
-					{ type: 'image', src: 'img/nonce-executor-4.jpg', alt: 'Gallery image 4 from Nonce.Executor' },
-					{ type: 'image', src: 'img/nonce-executor-5.jpg', alt: 'Gallery image 5 from Nonce.Executor' }
+					{ type: 'image', src: 'img/memmott-nonce-executor-gallery-1.gif', alt: 'Gallery image 1 from Nonce.Executor' },
+					{ type: 'image', src: 'img/memmott-nonce-executor-gallery-2.jpg', alt: 'Gallery image 2 from Nonce.Executor' },
+					{ type: 'image', src: 'img/memmott-nonce-executor-gallery-3.jpg', alt: 'Gallery image 3 from Nonce.Executor' },
+					{ type: 'image', src: 'img/memmott-nonce-executor-gallery-4.jpg', alt: 'Gallery image 4 from Nonce.Executor' },
+					{ type: 'image', src: 'img/memmott-nonce-executor-gallery-5.jpg', alt: 'Gallery image 5 from Nonce.Executor' }
 				],
 				imageAlt: 'Gallery image 1 from Nonce.Executor',
 				imageCaption: '',
@@ -362,17 +365,17 @@
 				id: 'interrogating-electronic-literature',
 				title: 'Interrogating Electronic Literature',
 				type: 'work',
-				coAuthor: 'David Plater',
+				coAuthor: 'David Prater',
 				year: '2011',
 				languages: '—',
 				format: 'Web',
 				publishedIn: 'ELMCIP Electronic Literature and New Media Art Seminar; Ljubljana, Slovenia',
 				publishedInLabel: 'Published At',
 				genre: 'Video Essay',
-				image: 'img/interrogating-elit-1.jpg',
+				image: 'img/memmott-interrogating-electronic-liter-gallery-1.gif',
 				media: [
 					{ type: 'vimeo', src: 'https://player.vimeo.com/video/1195766294?badge=0&autopause=0&player_id=0&app_id=58479&title=0&byline=0&portrait=0&dnt=1&autoplay=1', label: 'Interrogating Electronic Literature', alt: 'Interrogating Electronic Literature video', buttonLabel: 'Work' },
-					{ type: 'image', src: 'img/interrogating-elit-1.jpg', alt: 'Gallery image 1 from Interrogating Electronic Literature' },
+					{ type: 'image', src: 'img/memmott-interrogating-electronic-liter-gallery-1.gif', alt: 'Gallery image 1 from Interrogating Electronic Literature' },
 					{ type: 'image', src: 'img/interrogating-elit-2.jpg', alt: 'Gallery image 2 from Interrogating Electronic Literature' },
 					{ type: 'image', src: 'img/interrogating-elit-3.jpg', alt: 'Gallery image 3 from Interrogating Electronic Literature' },
 					{ type: 'image', src: 'img/interrogating-elit-4.jpg', alt: 'Gallery image 4 from Interrogating Electronic Literature' },
@@ -387,20 +390,20 @@
 				id: 'touching-words',
 				title: 'Touching Words',
 				type: 'work',
-				coAuthor: 'David Plater',
+				coAuthor: 'David Prater',
 				year: '2012',
 				languages: '—',
 				format: 'Web',
 				publishedIn: 'Workshop on Curating and Exhibiting Electronic Literature; Bergen, Norway',
 				publishedInLabel: 'Published At',
 				genre: 'Video Essay / Documentary',
-				image: 'img/touching-words-1.jpg',
+				image: 'img/memmott-touching-words-gallery-1.gif',
 				media: [
 					{ type: 'vimeo', src: 'https://player.vimeo.com/video/1195766295?badge=0&autopause=0&player_id=0&app_id=58479&title=0&byline=0&portrait=0&dnt=1&autoplay=1', label: 'Touching Words', alt: 'Touching Words video', buttonLabel: 'Work' },
-					{ type: 'image', src: 'img/touching-words-1.jpg', alt: 'Gallery image 1 from Touching Words' },
-					{ type: 'image', src: 'img/touching-words-2.jpg', alt: 'Gallery image 2 from Touching Words' },
-					{ type: 'image', src: 'img/touching-words-3.jpg', alt: 'Gallery image 3 from Touching Words' },
-					{ type: 'image', src: 'img/touching-words-4.jpg', alt: 'Gallery image 4 from Touching Words' }
+					{ type: 'image', src: 'img/memmott-touching-words-gallery-1.gif', alt: 'Gallery image 1 from Touching Words' },
+					{ type: 'image', src: 'img/memmott-touching-words-gallery-2.jpg', alt: 'Gallery image 2 from Touching Words' },
+					{ type: 'image', src: 'img/memmott-touching-words-gallery-3.jpg', alt: 'Gallery image 3 from Touching Words' },
+					{ type: 'image', src: 'img/memmott-touching-words-gallery-4.jpg', alt: 'Gallery image 4 from Touching Words' }
 				],
 				imageAlt: 'Gallery image 1 from Touching Words',
 				imageCaption: '',
@@ -417,13 +420,13 @@
 				publishedIn: 'ePoetry Festival, University of Buffalo, 2011',
 				publishedInLabel: 'Published At',
 				genre: 'Documentation of an Interactive Installation',
-				image: 'img/spacing-1.jpg',
+				image: 'img/memmott-spacing-gallery-1.gif',
 				media: [
 					{ type: 'vimeo', src: 'https://player.vimeo.com/video/1195766293?badge=0&autopause=0&player_id=0&app_id=58479&title=0&byline=0&portrait=0&dnt=1&autoplay=1', label: '(S)Pacing', alt: '(S)Pacing video', buttonLabel: 'Documentation' },
-					{ type: 'image', src: 'img/spacing-1.jpg', alt: 'Gallery image 1 from (S)Pacing' },
-					{ type: 'image', src: 'img/spacing-2.jpg', alt: 'Gallery image 2 from (S)Pacing' },
-					{ type: 'image', src: 'img/spacing-3.jpg', alt: 'Gallery image 3 from (S)Pacing' },
-					{ type: 'image', src: 'img/spacing-4.jpg', alt: 'Gallery image 4 from (S)Pacing' }
+					{ type: 'image', src: 'img/memmott-spacing-gallery-1.gif', alt: 'Gallery image 1 from (S)Pacing' },
+					{ type: 'image', src: 'img/memmott-spacing-gallery-2.jpg', alt: 'Gallery image 2 from (S)Pacing' },
+					{ type: 'image', src: 'img/memmott-spacing-gallery-3.jpg', alt: 'Gallery image 3 from (S)Pacing' },
+					{ type: 'image', src: 'img/memmott-spacing-gallery-4.jpg', alt: 'Gallery image 4 from (S)Pacing' }
 				],
 				imageAlt: 'Gallery image 1 from (S)Pacing',
 				imageCaption: '',
@@ -441,13 +444,14 @@
 				publishedIn: 'ePoetry Festival, University of Buffalo, 2011',
 				publishedInLabel: 'Published At',
 				genre: 'Documentation of a Performance',
-				image: 'img/intermission-1.jpg',
+				image: 'img/memmott-intermission-gallery-1.gif',
 				media: [
 					{ type: 'vimeo', src: 'https://player.vimeo.com/video/28596865?badge=0&autopause=0&player_id=0&app_id=58479&title=0&byline=0&portrait=0&dnt=1&autoplay=1', label: 'Intermission (2011), performed by Talan Memmott and Eric Snodgrass', alt: 'Video of Intermission performance', buttonLabel: 'Documentation' },
-					{ type: 'image', src: 'img/intermission-1.jpg', alt: 'Gallery image 1 from Intermission' },
-					{ type: 'image', src: 'img/intermission-2.jpg', alt: 'Gallery image 2 from Intermission' },
-					{ type: 'image', src: 'img/intermission-3.jpg', alt: 'Gallery image 3 from Intermission' },
-					{ type: 'image', src: 'img/intermission-4.jpg', alt: 'Gallery image 4 from Intermission' }
+					{ type: 'image', src: 'img/memmott-intermission-gallery-1.gif', alt: 'Gallery image 1 from Intermission' },
+					{ type: 'image', src: 'img/memmott-intermission-gallery-2.jpg', alt: 'Gallery image 2 from Intermission' },
+					{ type: 'image', src: 'img/memmott-intermission-gallery-3.jpg', alt: 'Gallery image 3 from Intermission' },
+					{ type: 'image', src: 'img/memmott-intermission-gallery-4.jpg', alt: 'Gallery image 4 from Intermission' },
+					{ type: 'image', src: 'img/memmott-intermission-gallery-5.jpg', alt: 'Gallery image 5 from Intermission' }
 				],
 				imageAlt: 'Gallery image 1 from Intermission',
 				imageCaption: '',
@@ -464,11 +468,13 @@
 				format: 'Web',
 				publishedIn: 'Drunken Boat, Issue #8',
 				genre: 'Flash Poem',
-				image: 'img/hugo-ball-1.jpg',
+				image: 'img/memmott-hugo-ball-gallery-1.gif',
 				media: [
 					{ type: 'iframe', src: 'https://archive.the-next.org/drunkenboat/preserved/db8/panlitjudges/memmott/index.html', label: 'The Hugo Ball — view work', alt: 'The Hugo Ball interactive work embedded', resolution: { w: 800, h: 600 } },
-					{ type: 'image', src: 'img/hugo-ball-1.jpg', alt: 'Gallery image 1 from The Hugo Ball' },
-					{ type: 'image', src: 'img/hugo-ball-2.jpg', alt: 'Gallery image 2 from The Hugo Ball' }
+					{ type: 'image', src: 'img/memmott-hugo-ball-gallery-1.gif', alt: 'Gallery image 1 from The Hugo Ball' },
+					{ type: 'image', src: 'img/memmott-hugo-ball-gallery-2.jpg', alt: 'Gallery image 2 from The Hugo Ball' },
+					{ type: 'image', src: 'img/memmott-hugo-ball-gallery-3.jpg', alt: 'Gallery image 3 from The Hugo Ball' },
+					{ type: 'image', src: 'img/memmott-hugo-ball-gallery-4.jpg', alt: 'Gallery image 4 from The Hugo Ball' }
 				],
 				imageAlt: 'Gallery image 1 from The Hugo Ball',
 				imageCaption: '',
@@ -485,9 +491,13 @@
 				publishedIn: 'Twitter',
 				publishedInLabel: 'Published On',
 				genre: 'NetProv',
-				image: 'img/digital-culture-lecture-world-tour-1.jpg',
+				image: 'img/memmott-digital-culture-lecture-world-gallery-1.gif',
 				media: [
-					{ type: 'vimeo', src: 'https://player.vimeo.com/video/1202944123?h=6766fd013f&badge=0&autopause=0&player_id=0&app_id=58479&title=0&byline=0&portrait=0&dnt=1&autoplay=1', label: 'Digital Culture World Lecture Tour', alt: 'Digital Culture World Lecture Tour video', buttonLabel: 'Documentation' }
+					{ type: 'vimeo', src: 'https://player.vimeo.com/video/1202944123?h=6766fd013f&badge=0&autopause=0&player_id=0&app_id=58479&title=0&byline=0&portrait=0&dnt=1&autoplay=1', label: 'Digital Culture World Lecture Tour', alt: 'Digital Culture World Lecture Tour video', buttonLabel: 'Documentation' },
+					{ type: 'image', src: 'img/memmott-digital-culture-lecture-world-gallery-1.gif', alt: 'Gallery image 1 from Digital Culture World Lecture Tour' },
+					{ type: 'image', src: 'img/memmott-digital-culture-lecture-world-gallery-2.jpg', alt: 'Gallery image 2 from Digital Culture World Lecture Tour' },
+					{ type: 'image', src: 'img/memmott-digital-culture-lecture-world-gallery-3.jpg', alt: 'Gallery image 3 from Digital Culture World Lecture Tour' },
+					{ type: 'image', src: 'img/memmott-digital-culture-lecture-world-gallery-4.jpg', alt: 'Gallery image 4 from Digital Culture World Lecture Tour' }
 				],
 				imageAlt: 'Digital Culture World Lecture Tour',
 				imageCaption: '',

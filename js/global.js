@@ -183,6 +183,19 @@ setInterval(populateBgText, 9000);
 }());
 
 (function () {
+	document.querySelectorAll('.video-poster').forEach(function (poster) {
+		var iframe = poster.nextElementSibling;
+		if (!iframe || iframe.tagName !== 'IFRAME') return;
+
+		poster.addEventListener('click', function () {
+			iframe.src = iframe.dataset.src;
+			iframe.style.display = 'block';
+			poster.remove();
+		});
+	});
+}());
+
+(function () {
 	var toggle = document.getElementById('nav-toggle');
 	var nav = document.getElementById('site-nav');
 	if (!toggle || !nav) return;

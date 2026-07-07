@@ -44,8 +44,13 @@
 	<main class="landing-main">
 
 		<div class="intro-video-wrap">
-			<iframe src="https://player.vimeo.com/video/1202673356?h=29eca55e5b&title=0&byline=0&portrait=0&dnt=1"
-				class="recording-embed" frameborder="0"
+			<button type="button" class="video-poster" id="intro-video-poster" aria-label="Play introduction video">
+				<img src="img/intro-poster.jpg" alt="" class="video-poster-img">
+				<span class="video-play-icon" aria-hidden="true"></span>
+			</button>
+			<iframe id="intro-video-iframe"
+				data-src="https://player.vimeo.com/video/1202673356?h=29eca55e5b&title=0&byline=0&portrait=0&dnt=1&autoplay=1"
+				class="recording-embed" style="display: none;" frameborder="0"
 				allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" allowfullscreen
 				title="Introduction to Talan Memmott: Works on Screen, 1998-2016"></iframe>
 		</div>
