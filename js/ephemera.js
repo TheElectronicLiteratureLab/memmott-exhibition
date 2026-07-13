@@ -69,27 +69,27 @@ var ephemeraItems = [
 	},
 	{
 		id: 'cab-volt-poster',
-		label: 'Cabaret Voltage',
+		label: 'ELMCIP\'s Cabaret Voltage',
 		front: 'cab-volt-poster.jpg',
-		caption: 'Placeholder caption — Cabaret Voltage poster.'
+		caption: 'An evening of electronic literature performances, readings, and media art held during the ELMCIP Electronic Literature and Pedagogy Workshop on June 16, 2011, Karlskrona, Sweden.'
 	},
 	{
 		id: 'elo-2012-poster',
 		label: 'ELO 2012 Poster',
 		front: 'elo-2012-poster.jpg',
-		caption: 'Placeholder caption — ELO 2012 poster.'
+		caption: 'Electronic Literature Organization Media Art Festival exhibition 2012 June 20-23, 2012 in Morgantown, West Virginia.'
 	},
 	{
 		id: 'elo-2014-poster',
 		label: 'ELO 2014 Poster',
 		front: 'elo-2014-poster.jpg',
-		caption: 'Placeholder caption — ELO 2014 poster.'
+		caption: 'Electronic Literature Organization Media Art Festival 2014 June 19-21 in Milwaukie, Wisconsin.'
 	},
 	{
 		id: 'elo-2015-poster',
 		label: 'ELO 2015 Poster',
 		front: 'elo-2015-poster.jpg',
-		caption: 'Placeholder caption — ELO 2015 poster.'
+		caption: 'Electronic Literature Organization Conference 2015 August 4-7, 2015 in Bergen, Norway.'
 	}
 ];
 
