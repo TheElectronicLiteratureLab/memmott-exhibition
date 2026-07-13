@@ -66,6 +66,30 @@ var ephemeraItems = [
 		label: 'Electronic Literature Volume One',
 		front: 'elc-1.png',
 		caption: 'The ELC Volume 1 (2006) Announcement Card listing Talan Memmott among the artists featured in it.'
+	},
+	{
+		id: 'cab-volt-poster',
+		label: 'Cabaret Voltage',
+		front: 'cab-volt-poster.jpg',
+		caption: 'Placeholder caption — Cabaret Voltage poster.'
+	},
+	{
+		id: 'elo-2012-poster',
+		label: 'ELO 2012 Poster',
+		front: 'elo-2012-poster.jpg',
+		caption: 'Placeholder caption — ELO 2012 poster.'
+	},
+	{
+		id: 'elo-2014-poster',
+		label: 'ELO 2014 Poster',
+		front: 'elo-2014-poster.jpg',
+		caption: 'Placeholder caption — ELO 2014 poster.'
+	},
+	{
+		id: 'elo-2015-poster',
+		label: 'ELO 2015 Poster',
+		front: 'elo-2015-poster.jpg',
+		caption: 'Placeholder caption — ELO 2015 poster.'
 	}
 ];
 

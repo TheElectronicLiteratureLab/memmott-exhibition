@@ -49,16 +49,6 @@ var articles = [
 <p>Rettberg, Scott. “Dada Redux: Elements of Dadaist Practice in Contemporary Electronic Literature.” <em>The Fibreculture Journal</em>, no. 11, 2008. <a href=”https://eleven.fibreculturejournal.org/fcj-071-dada-redux-elements-of-dadaist-practice-in-contemporary-electronic-literature/” target=”_blank” rel=”noopener”>eleven.fibreculturejournal.org</a>.</p>
 <p>Stefans, Brian Kim. “Comedies of Separation: Toward a Theory of the Ludic Book.” <em>Journal of Electronic Publishing</em>, vol. 14, no. 2, 2011, University of Michigan Library. <a href=”https://doi.org/10.3998/3336451.0014.207” target=”_blank” rel=”noopener”>doi.org/10.3998/3336451.0014.207</a>.</p>
 <p>Toffler, Alvin. <em>The Third Wave</em>. William Morrow, 1980, pp. 282-305. <a href=”https://ia801200.us.archive.org/9/items/TheThirdWave-Toffler/The-Third-Wave_-_Toffler.pdf” target=”_blank” rel=”noopener”>PDF link</a>.</p>`
-	},
-	{
-		id: 'article-3',
-		title: '“Article Title Three”',
-		author: 'Author Name',
-		publication: '<em>Journal Name</em>, Year',
-		body: [
-			'At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.',
-			'Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.'
-		]
 	}
 ];
 

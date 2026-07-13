@@ -1810,7 +1810,7 @@ body.page-works .sidebar-nav {
 
 #ep-modal-caption {
   margin-top: 0.4rem;
-  font-size: 0.85rem;
+  font-size: 1rem;
   line-height: 1.4;
   color: var(--text-muted, rgba(255, 255, 255, 0.7));
 }
